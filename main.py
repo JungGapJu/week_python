@@ -23,4 +23,5 @@ cleaner = TextCleaner()
 cleaned = cleaner.clean_corpus(text)
 
 print("=== Cleaned Texts ===")
-print(Text)
+
+print(cleaned)
